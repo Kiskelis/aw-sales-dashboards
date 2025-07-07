@@ -67,7 +67,7 @@ This project was both a creative and technical milestone for me. Here are some k
   Combining bookmarks, conditional logic, and DAX to control element visibility took several iterations - but taught me how to create a more guided and user-friendly experience.
 
 - **Designing meaningful KPIs from raw data**  
-  Interpreting the AdventureWorks dataset and transforming it into useful business metrics (like retention rate, YoY growth, and customer segmentation) pushed me to think like an analyst, not just a report builder.
+  Interpreting the AdventureWorks dataset and transforming it into useful business metrics (like retention rate, YoY growth, and customer segmentation) pushed me to think like an analyst,  not just a report builder.
 
 - **Balancing visual clarity with analytical depth**  
   One of the most challenging aspects was fitting rich analytical content into a clean and intuitive layout, especially for executive-level users with limited time.

@@ -9,7 +9,7 @@
   The Power BI Desktop file containing all visuals, measures, and data model.  
 - **Images/**  
   Image assets used in the dashboard and README.  
-- **AW_Dashboard.pdf**  
+- **AW_Dashboard.pdf**   
   A printable guide with screenshots of each report page.  
 
 </details>

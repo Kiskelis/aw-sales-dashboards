@@ -30,6 +30,8 @@ The goal was to move beyond basic reporting and deliver a fully interactive, ins
 
 ---
 
+![Freedom on the Net Dashboard](aw_sales_dashboard/Images/forGitHub/Exec1.png) 
+
 ## 🖼 Executive Dashboard – Screenshots
 
 | ![Exec1](aw_sales_dashboard/Images/forGitHub/Exec1.png) | ![Tooltip](aw_sales_dashboard/Images/forGitHub/Exec%20tolltip.png) | ![Insights Panel](aw_sales_dashboard/Images/forGitHub/Exec%20analysis%20side%20bar.png) |

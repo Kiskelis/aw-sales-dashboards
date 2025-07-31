@@ -53,7 +53,7 @@ This project was built entirely in **Power BI Desktop** and includes:
 - **Power BI** – Core tool for data visualization and dashboard development  
 - **DAX (Data Analysis Expressions)** – Used to create advanced measures and KPIs (e.g., YoY growth, retention rate, dynamic tooltips)  
 - **Power Query (M Language)** – Applied for data transformation, filtering, and shaping  
-- **AdventureWorks DW Dataset** – A simulated e-commerce and retail dataset  
+- **AdventureWorks Dataset** – A simulated e-commerce and retail dataset  
 - **Bookmarks, Tooltips, and Drill-throughs** – Implemented to improve interactivity and user navigation  
 - **Dynamic Panels & Toggle Buttons** – Enhance the user experience with flexible, context-sensitive storytelling  
 

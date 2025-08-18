@@ -31,7 +31,7 @@ The goal was to move beyond basic reporting and deliver a fully interactive, ins
 
 ---
 
-![Sales Dashboard Demo](aw_sales_dashboard/Images/forGitHub/GIF.gif)
+![Sales Dashboard Demo](aw_sales_dashboard/Images/forGitHub/aw_gif.gif)
 
 ## 🖼 Executive Dashboard – Screenshots
 

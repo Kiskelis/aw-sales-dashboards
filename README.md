@@ -28,9 +28,10 @@ This project features **four interconnected dashboards**:
 
 The goal was to move beyond basic reporting and deliver a fully interactive, insight-driven solution for decision-makers. It highlights **key performance metrics**, **strategic business insights**, **trend analysis**, and **customer segmentation** - all while applying **best practices in dashboard design, data modeling, and storytelling**.
 
+
 ---
 
-![Freedom on the Net Dashboard](aw_sales_dashboard/Images/forGitHub/Exec1.png) 
+![Sales Dashboard Demo](aw_sales_dashboard/Images/forGitHub/GIF.gif)
 
 ## 🖼 Executive Dashboard – Screenshots
 

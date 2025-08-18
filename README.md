@@ -27,11 +27,18 @@ This project features **four interconnected dashboards**:
 - **Customer Insights**
 
 The goal was to move beyond basic reporting and deliver a fully interactive, insight-driven solution for decision-makers. It highlights **key performance metrics**, **strategic business insights**, **trend analysis**, and **customer segmentation** - all while applying **best practices in dashboard design, data modeling, and storytelling**.
+While the AdventureWorks dataset was already relatively clean, it was not immediately ready for advanced analysis. To support meaningful insights, I:  
 
+- **Connected tables through primary and foreign keys** to build a robust **star schema** optimized for reporting and performance.  
+- Performed targeted **feature engineering**, such as creating calculated columns and measures, to enable **deeper analysis of customer behavior, product performance, and sales trends**.  
+- Ensured the model followed **best practices in data modeling**, making it both scalable and efficient for DAX calculations.  
+
+This preparation laid the foundation for dashboards that go beyond surface-level reporting and provide **actionable insights** for different stakeholder groups.  
 
 ---
-
+## 📸 Preview
 ![Sales Dashboard Demo](aw_sales_dashboard/Images/forGitHub/aw_gif.gif)
+---
 
 ## 🖼 Executive Dashboard – Screenshots
 
